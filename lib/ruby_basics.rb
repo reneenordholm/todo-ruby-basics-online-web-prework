@@ -22,6 +22,6 @@ def last_evaluated_value(phrase="expert")
    return phrase
 end
 
-def pizza_party(default)
-   default="cheese"
+def pizza_party(default="cheese")
+   return default
 end
